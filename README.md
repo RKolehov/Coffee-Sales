@@ -23,8 +23,6 @@ The dataset consists of transaction records from a coffee vending machine, inclu
 - **Pandas**: Data manipulation and cleaning.
 - **Matplotlib**: Data visualization.
 - **Jupyter Notebook**: Interactive analysis and reporting.
-- **SQL & BigQuery**: Querying and managing large datasets.
-- **Looker Studio**: Data visualization and dashboard creation.
 
 ## Expected Outcomes
 - Insights into customer preferences and purchase behavior.
