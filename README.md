@@ -27,7 +27,6 @@ The dataset consists of transaction records from a coffee vending machine, inclu
 ## Expected Outcomes
 - Insights into customer preferences and purchase behavior.
 - Identification of peak sales periods and popular beverages.
-- Data-driven recommendations for optimizing vending machine operations.
 
 ## Usage
 1. Clone this repository:
