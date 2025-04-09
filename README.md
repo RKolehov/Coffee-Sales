@@ -28,17 +28,4 @@ The dataset consists of transaction records from a coffee vending machine, inclu
 - Insights into customer preferences and purchase behavior.
 - Identification of peak sales periods and popular beverages.
 
-## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Kolegoff/Coffee-Sales.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis notebooks to explore the data and generate insights.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
