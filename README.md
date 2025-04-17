@@ -17,6 +17,7 @@ The dataset consists of transaction records from a coffee vending machine, inclu
 - **Coffee Type**: The type of coffee purchased.
 - **Payment Method**: Cash or card.
 - **Transaction Amount**: The amount spent per purchase.
+
 The data used for analysis was obtained from this source: [https://www.kaggle.com/datasets/ihelon/coffee-sales](https://www.kaggle.com/datasets/ihelon/coffee-sales).
 
 ## Tools & Technologies
